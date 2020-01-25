@@ -1,2 +1,2 @@
 # heroku-demo
-Project that demonstrates deploying an ML model to Heroku (PAAS).
+Project that demonstrates deploying a ML model to Heroku (PAAS).
